@@ -10,5 +10,9 @@ edition = "2018"
 name = "multiple-of-3-and-5_001"
 path = "src/bin/001_multiple-of-3-and-5.rs"
 
+[[bin]]
+name = "even-fibonacci-numbers-002"
+path = "src/bin/002_even-fibonacci-numbers.rs"
+
 [dependencies]
 itertools = "0.9"
