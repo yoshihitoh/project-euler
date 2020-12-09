@@ -14,5 +14,11 @@ path = "src/bin/001_multiple-of-3-and-5.rs"
 name = "even-fibonacci-numbers-002"
 path = "src/bin/002_even-fibonacci-numbers.rs"
 
+[[bin]]
+name = "su-doku-096"
+path = "src/bin/096_su-doku.rs"
+
 [dependencies]
 itertools = "0.9"
+anyhow = "1"
+thiserror = "1"
